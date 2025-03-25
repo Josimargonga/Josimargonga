@@ -1,4 +1,15 @@
-- 👋 Sou @Josimargonga
+## 👋 Olá! Eu sou o Josimar Gonga  
+
+💻 Desenvolvedor Backend apaixonado por tecnologia e boas práticas de código. Atualmente focado em **TypeScript, JavaScript, Node.js e arquitetura de software**.  
+
+🚀 Busco criar soluções escaláveis e bem estruturadas, aplicando **Clean Architecture, DDD e boas práticas**.  
+
+🛠️ **Stack Principal:**  
+- 🔹 **Linguagens:** TypeScript | JavaScript  
+- 🚀 **Backend:** Node.js | NestJS | Express  
+- 🗄️ **Banco de Dados:** PostgreSQL | MySQL | Prisma ORM  
+- 📦 **Versionamento:** Git | GitHub  
+- 🌎 **Frontend (extra):** HTML | CSS
 
 - ## 🚀 Tecnologias que uso
 
