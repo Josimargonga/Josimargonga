@@ -63,7 +63,7 @@
   </a>
 </p>
 <br> <br>
-
+<div align="center">
 - <table>
   <thead>
     <tr>
@@ -78,9 +78,9 @@
   <tbody>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josimargonga&theme=tokyonight" alt="GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josimargonga&theme=tokyonight" alt="GitHub Streak" width="800" height="250">
       </td>
     </tr>
   </tbody>
 </table>
-
+</div>
